@@ -123,6 +123,7 @@ The dataset used for this analysis is sourced from Kaggle. It includes various m
 
 **Estimated Labour Participation Rate (%):** The participation rate in the labor force.
 
+
 **Analysis Steps**
 
 **Data Loading & Cleaning:**
@@ -141,9 +142,11 @@ Create visualizations to illustrate unemployment trends over time, especially hi
 
 Summarize findings and discuss the socio-economic implications of the observed trends.
 
+
 **Results**
 
  The analysis revealed significant spikes in unemployment rates during critical periods of the COVID-19 pandemic, emphasizing the socio-economic challenges faced by many in the labor market. Key visualizations highlight these trends and provide a deeper understanding of the underlying factors.
+
 
 **Technologies Used**
 Python
